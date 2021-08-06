@@ -2,21 +2,21 @@
 
 A processed version of http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
 
-<AXIS> can be X, Y or Z. In all cases these are three different variables.
+AXIS can be X, Y or Z. In all cases these are three different variables.
 
-"tBodyAcc-mean()-<AXIS>"      
+"tBodyAcc-mean()-AXIS"      
   Mean body acceleration on axis.
 
-"tGravityAcc-mean()-<AXIS>"   
+"tGravityAcc-mean()-AXIS"   
   Mean Gravity acceleration on axis.
 
-"tBodyAccJerk-mean()-<AXIS>" 
+"tBodyAccJerk-mean()-AXIS" 
   Mean Body acceleration jerk on axis.
 
-"tBodyGyro-mean()-<AXIS>"    
+"tBodyGyro-mean()-AXIS"    
   Mean body gyro on axis
 
-"tBodyGyroJerk-mean()-<AXIS>" 
+"tBodyGyroJerk-mean()-AXIS" 
   Mean body gyro jerk on axis.
 
 "tBodyAccMag-mean()"  
@@ -34,13 +34,13 @@ A processed version of http://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 "tBodyGyroJerkMag-mean()"  
   Mean body gyro jerk mag
 
-"fBodyAcc-mean()-<AXIS>"          
+"fBodyAcc-mean()-AXIS"          
   Mean body acceleration on axis
 
-"fBodyAccJerk-mean()-<AXIS>"    
+"fBodyAccJerk-mean()-AXIS"    
   Mean body acceleration jerk on axis
   
-"fBodyGyro-mean()-<AXIS>"         
+"fBodyGyro-mean()-AXIS"         
   Mean body gyro on axis
 
 "fBodyAccMag-mean()"         
@@ -55,19 +55,19 @@ A processed version of http://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 "fBodyBodyGyroJerkMag-mean()"
   Mean body gyro jerk mag
 
-"tBodyAcc-std()-<AXIS>"     
+"tBodyAcc-std()-AXIS"     
   Standard deviation of body acceleration over axis
   
- "tGravityAcc-std()-<AXIS>" 
+ "tGravityAcc-std()-AXIS" 
  Standard deviation of gravity acceleration over axis
 
-"tBodyAccJerk-std()-<AXIS>"  
+"tBodyAccJerk-std()-AXIS"  
 Standard deviation of body acceleration over axis
 
-"tBodyGyro-std()-<AXIS>"  
+"tBodyGyro-std()-AXIS"  
 Standard deviation of body gyro over axis
 
-"tBodyGyroJerk-std()-<AXIS>"  
+"tBodyGyroJerk-std()-AXIS"  
 Standard deviation of body gyro jerk over axis
 
 "tBodyAccMag-std()"   
@@ -85,13 +85,13 @@ Standard deviation of body acceleration
 "tBodyGyroJerkMag-std()"     
 Standard deviation of body gyro jerg mag over axis
 
-"fBodyAcc-std()-<AXIS>"           
+"fBodyAcc-std()-AXIS"           
 Standard deviation of body acceleration over axis
 
-"fBodyAccJerk-std()-<AXIS>"       
+"fBodyAccJerk-std()-AXIS"       
 Standard deviation of body acceleration jerk over axis
 
-"fBodyGyro-std()-<AXIS>"          
+"fBodyGyro-std()-AXIS"          
 Standard deviation of body gyro over axis
 
 "fBodyAccMag-std()"          
