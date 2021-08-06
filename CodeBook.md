@@ -4,7 +4,9 @@ A processed version of http://archive.ics.uci.edu/ml/datasets/Human+Activity+Rec
 
 AXIS can be X, Y or Z. In all cases these are three different variables.
 
-"tBodyAcc-mean()-AXIS"      
+Unless noted otherwise, default data format is double
+
+"tBodyAcc-mean()-AXIS"     
   Mean body acceleration on axis.
 
 "tGravityAcc-mean()-AXIS"   
