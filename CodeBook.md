@@ -108,11 +108,17 @@ Standard deviation of body acceleration over axis
 
 "activityLabel"         
   Activity the subject was doing when the measurements were recorded.
+  
     WALKING
+  
     WALKING_UPSTAIRS
+  
     WALKING_DOWNSTAIRS
+  
     SITTING
+  
     STANDING
+  
     LAYING
 
 "subject" 1
