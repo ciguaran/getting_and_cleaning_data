@@ -1,7 +1,5 @@
 # getting_and_cleaning_data
 
-Contents
-
 Practical assignment on cleaning data with R
 
 Contents:
@@ -9,3 +7,5 @@ Contents:
 CodeBook.md
 
 run_analysis.R
+
+To run the code, change the path to dataset folder variable and rerun
